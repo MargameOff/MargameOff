@@ -1,4 +1,4 @@
-![Marius's GitHub Banner](./assets/banner.png)
+![Marius's GitHub Banner](./banner.png)
 <h1 align="center">Hi there, I'm Marius Deleuil</h1>
 <h3 align="center">Passionate fullstack developer from France 🇫🇷<br/>
 Actual student at <a href="https://www.insa-lyon.fr/" target="_blank" rel="noreferrer">INSA Lyon<a/></h3>
